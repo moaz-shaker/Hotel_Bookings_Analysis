@@ -2,20 +2,9 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
-# 🏨 Hotel Booking Analysis — ITI Project
+# 🏨 Hotel Booking Analysis - ( Python )
 
-This project focuses on analyzing hotel booking data and building machine learning models to predict booking cancellations. The project was completed as part of an internal team effort at the Information Technology Institute (ITI).
-
----
-
-## 👨‍💻 Project Members
-
-1. Ahmed Gomaa Nazief  
-2. Karim Ayman Mohammed  
-3. Mohamed Hassan El Qappaney  
-4. Mohamed Saeed Fathey  
-
----
+This project focuses on analyzing hotel booking data and building machine learning models to predict booking cancellations.
 
 ## 📊 Dataset
 
@@ -93,6 +82,6 @@ pip install pandas numpy seaborn matplotlib scikit-learn xgboost imbalanced-lear
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mohammed-saeed-4148b423b/)
-- [GitHub](https://github.com/Mohamedsaeed12-5)
+- [LinkedIn](https://www.linkedin.com/in/moazshaker/)
+- [GitHub](https://github.com/Moazshaker)
 
